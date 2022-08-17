@@ -1,6 +1,6 @@
 # eSAT
 
-###### the analysis is severely limited to my complete lack of understanding of what i am doing
+###### the analysis is severely limited by my complete lack of understanding of what i am doing
 
 >  † @editor99 ☭, 2010 ~ 2022
 
